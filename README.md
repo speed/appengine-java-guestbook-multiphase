@@ -1,19 +1,13 @@
-## appengine-java-guestbook-multiphase
 
-Goes through the process of creating an App Engine guestbook using Java and Maven in phases.
 
-1. phase1 -- UI Only
-2. final -- Adds data access using [Objectify](https://github.com/objectify/objectify)
+Goes through the process of creating an App Engine NewCrawler using Java and Maven in phases.
 
-Written by Google Cloud Developer Relations
-
-Please ask questions on [Stackoverflow](http://stackoverflow.com/questions/tagged/google-app-engine)
 
 ## Project setup, installation, and configuration
 
 How do I, as a developer, start working on the project?
 
-1. cd final  (or phase1)
+1. newcrawler-gae-shell
 1. `mvn clean appengine:devserver`
 
 <!---
